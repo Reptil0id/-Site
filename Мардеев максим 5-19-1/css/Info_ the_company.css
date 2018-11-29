@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+footer {
+	text-align: right;
+	margin-right: 2%;
+}
+
+
+.leader {
+	float: left;
+	margin-right: 2%;
+}
+
+.indents {
+	margin-top: 3%;
+}
+

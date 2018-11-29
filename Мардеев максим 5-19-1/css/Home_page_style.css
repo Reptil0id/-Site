@@ -1,0 +1,86 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+}
+
+.bcolor {
+	margin-top: 2%;
+}
+
+.main_logo {
+	height:80px;
+	width:120px;
+	float: left;
+	
+}
+
+ ul.link_gulag {
+
+ }
+ 
+ ul.link_gulag li {
+	 display: inline; /* Отображать как строчный элемент */
+ }
+ 
+  ul.info_gulag {
+	 margin: 0; /* Обнуляем значение отступов */
+	 padding: 4px; /* Значение полей */
+
+ }
+
+ ul.info_gulag li {
+	 display: inline; /* Отображать как строчный элемент */
+	
+ }
+ 
+ .indentation {
+	 margin-top: 1%;
+	 }	
+
+.product_image {
+	height:300px;
+	width:300px;		
+}
+
+.item {
+    display: inline-block;
+	width:50%	
+}
+
+ h3 {
+	text-align: center;
+}
+
+.style_text {
+	font-size: 20px;
+}
+
+.galery {
+	 
+	
+}
+
+div.galery img {
+	height: 200px;
+	margin-top: 2%;
+	display: inline-block;
+
+}
+
+footer {
+	margin-top: 2%;
+
+}
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
