@@ -1,0 +1,16 @@
+.footer {
+    background: #AF2828;
+}
+
+.footer_logo {
+    width: 240rem;
+    height: 48rem;
+    background: url(/assets/logo.png);
+}
+.section a {
+    padding-top: 15rem;
+}
+
+.h3 {
+    padding-bottom: 5rem;
+}
